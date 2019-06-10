@@ -3,4 +3,4 @@ prefix=ob
 game=صباحات وأحباب وأغاني.
 stayinchannel=true
 songinstatus=false
-token=NDM2NTg1MTA1MDA4NDkyNTQ0.XP6CNg.GHhCKcKyjud9-QZkic1w2ovXjK4
+token=NDk4ODk0NTYxMDI5MTI4MjE4.XP6LEw.Jgw3tvhM55M-2ai_LXCGhDyFuG8
